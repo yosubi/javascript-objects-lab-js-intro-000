@@ -1,1 +1,1 @@
-var object ={recipe}
+var receipe = {} ;
